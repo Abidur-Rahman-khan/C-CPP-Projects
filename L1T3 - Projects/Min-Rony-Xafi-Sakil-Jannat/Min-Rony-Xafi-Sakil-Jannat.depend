@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1597131291 source:c:\users\dell\desktop\min-rony-xafi-sakil-jannat\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+
+1597131291 source:g:\l1 t3\data structure lab\projects\min-rony-xafi-sakil-jannat\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<windows.h>
+

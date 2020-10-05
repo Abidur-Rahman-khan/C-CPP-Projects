@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1586623333 source:c:\users\hp\desktop\result 10.0\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1586753666 source:c:\users\dell\desktop\final project\result 10.0\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
