@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1595879783 source:c:\users\dell\desktop\project 6.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<process.h>
+	<windows.h>
+
+1596816927 source:c:\users\dell\desktop\phone book\project 6.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<process.h>
+	<windows.h>
+
